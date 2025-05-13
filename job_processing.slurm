@@ -30,7 +30,6 @@ echo "Active Conda environment: $CONDA_DEFAULT_ENV"
 echo "Python version: $(python --version)"
 echo "CUDA version: $(nvcc --version)"
 
-# Change directory to where the code is located
 cd /home/rpal_umassd_edu/PARE-VideoProcessing/PARE/
 echo "Current working directory: $(pwd)"
 
